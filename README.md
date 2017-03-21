@@ -39,5 +39,3 @@
 ## 其它
 
 [Octopress 搭建静态博客网站](http://icodeyou.com/2015/05/13/2015-05-13-%E3%80%90%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B%E3%80%91Octopress%20%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/)
-
-[Octopress 搭建静态博客网站](http://icodeyou.com/2015/05/13/2015-05-13-%E3%80%90%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B%E3%80%91Octopress%20%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/)
